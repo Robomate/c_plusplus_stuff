@@ -17,7 +17,7 @@ int pr_mes(string message, int array [5])
 int main()
 {
     string message;
-    int bar [5] = { 16, 2, 77, 40, 12071 };
+    int bar [] = { 16, 2, 77, 40, 12071 };
     cout << bar[0];
      
      
